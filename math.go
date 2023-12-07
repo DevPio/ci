@@ -5,7 +5,7 @@ import "fmt";
 func main(){
 
 
-	fmt.Println(Sum(1 , 1))
+	fmt.Println(Sum(1 , 2))
 }
 
 
